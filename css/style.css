@@ -345,17 +345,6 @@ h5{
         margin-left:8px;
       }
 
-
-      h1{
-        font-size: 30px;
-        text-decoration: underline;
-        text-decoration-color: #85ac87;
-        color:#000000;
-        text-decoration-style:bold;
-        text-align: center;
-        margin-top:1px;
-      }
-
       #showcase .box img{
         border-style: double;
         border-width: medium;
@@ -377,16 +366,7 @@ h5{
          width:70%;
          border-color: #000000;
       }
-      .dark-boxes{
-        background:#ffffff;
-        color:#000000;
-        border-color: #85ac87;
-        border-style:solid;
-        width: 95%;
-        display:block;
-        padding: 10px;
-        margin-right:40px;
-      }
+
       #footer p{
         border:none;
         text-align:center;
@@ -451,9 +431,7 @@ h5{
        border-style:solid;
        margin:auto;
        display:block;
-       flex-wrap: wrap;
-       align-content: center;
-       align-items: center;
+       width:95%;
      }
      h5{
        font-size: 20px;
