@@ -491,7 +491,7 @@ h5{
        overflow: hidden;
        align-items: center;
        margin: auto;
-       display: run-in;
+       display: run-in; 
        cursor: grab;
        width:50%;
        height:50%;
