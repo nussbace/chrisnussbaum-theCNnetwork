@@ -334,7 +334,11 @@ h5{
       p{
       font-size: 8px;
       }
-
+      #boxes .box{
+        text-align:center;
+        padding:20px;
+        margin:10px;
+       }
       header #branding{
         float:left;
         margin-left:12%;
@@ -352,6 +356,7 @@ h5{
         padding:1px;
         margin-right:47px;
         float:right;
+        margin-bottom:20px;
       }
       header a{
         color:#ffffff;
@@ -383,7 +388,7 @@ h5{
      /*Capstone*/
      h3{
        text-decoration: none;
-       margin-top:50px;
+       margin-top:15px;
        font-size: 30px;
        text-align: center;
        color:#ffffff;
@@ -417,7 +422,6 @@ h5{
      }
      #objective{
        text-decoration:none;
-       margin:20px;
        text-align: center;
        font-size: 10px;
  }
@@ -454,9 +458,9 @@ h5{
        margin-top:10px;
        margin-bottom:10px;
        border-style:solid;
-       width: 95%;
-       margin-right:2.5%;
-       margin-left:2.5%;
+       width: 96%;
+       margin-right:2%;
+       margin-left:2%;
        overflow:hidden;
        display: block;
        overflow-x: hidden;
@@ -472,7 +476,6 @@ h5{
        border-style:solid;
        width: 95%;
        margin-left: auto;
-       margin-right: 2.5%;
        display:block;
      }
      .header-essay{
@@ -491,7 +494,7 @@ h5{
        overflow: hidden;
        align-items: center;
        margin: auto;
-       display: run-in; 
+       display: run-in;
        cursor: grab;
        width:50%;
        height:50%;
@@ -500,5 +503,8 @@ h5{
        font-size:10px;
      }
      .dark b{
+       font-size:8px;
+     }
+     p.dark-boxes b{
        font-size:8px;
      }
