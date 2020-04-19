@@ -339,6 +339,15 @@ h5{
         padding:20px;
         margin:10px;
        }
+
+       .box{
+         padding:5px;
+         font-size: 8px;
+       }
+       .box b{
+         font-size: 8px;
+       }
+
       header #branding{
         float:left;
         margin-left:12%;
@@ -459,9 +468,9 @@ h5{
        margin-top:10px;
        margin-bottom:10px;
        border-style:solid;
-       width: 96%;
-       margin-right:2%;
-       margin-left:2%;
+       width: 98%;
+       margin-right:1%;
+       margin-left:1%;
        overflow:hidden;
        display: block;
        overflow-x: hidden;
