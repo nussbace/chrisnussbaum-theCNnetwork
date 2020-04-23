@@ -193,7 +193,7 @@ h5{
   .header-essay{
     text-align: center;
     font-family: Times;
-    font-size: 30px;
+    font-size: 25px;
   }
 
   .capstone-bold{
@@ -456,7 +456,7 @@ h5{
        padding:10px;
      }
      h5{
-       font-size: 20px;
+       font-size: 25px;
        text-align: center;
        margin:auto;
        color:#ffffff;
@@ -467,9 +467,10 @@ h5{
      }
 
      h4{
-       font-size:12px;
+       font-size:16px;
        text-decoration: none;
      }
+
      .TOC-header{
        text-align: center;
        font-family: Courier;
@@ -504,7 +505,7 @@ h5{
      .header-essay{
        text-align: center;
        font-family: Times;
-       font-size: 16px;
+       font-size: 10px;
      }
      iframe{
        width:85%;
@@ -530,4 +531,7 @@ h5{
      }
      p.dark-boxes b{
        font-size:8px;
+     }
+     div.p-indent{
+       text-indent: 20px;
      }
