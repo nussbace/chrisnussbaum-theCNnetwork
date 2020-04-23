@@ -98,10 +98,11 @@ background: #ffffff;
 hr{
   border-width: thin;
   border-color:#000000;
+  border-style: solid;
 }
 
 h5{
-  font-size: 40px;
+  font-size: 50px;
   text-align: center;
   margin:auto;
   color:#ffffff;
@@ -159,8 +160,10 @@ h5{
     font-family: Garamond;
   }
 
-  .title{
-    border-style: solid;
+  h4{
+    font-family: audrey;
+    font-weight: lighter;
+    font-size: 35px;
   }
 
 /*home, section 3, body text*/
@@ -170,6 +173,10 @@ h5{
     text-align: left;
     margin:15px;
     font-family:Georgia;
+  }
+
+  div.p-indent{
+    text-indent: 50px;
   }
 
   .resume-contact-p{
@@ -457,6 +464,11 @@ h5{
        width:50%;
        padding:3px;
        background-color: #000000;
+     }
+
+     h4{
+       font-size:12px;
+       text-decoration: none;
      }
      .TOC-header{
        text-align: center;
