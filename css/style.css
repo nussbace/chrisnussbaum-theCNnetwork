@@ -550,3 +550,16 @@ h5{
      div.p-indent{
        text-indent: 20px;
      }
+     table {
+       font-family: Times, Arial;
+       border-collapse: collapse;
+       margin: auto;
+       width: 90%;
+       font-size: 6px;
+     }
+
+     td, th {
+       border: 1px solid #C0C0C0;
+       text-align: center;
+       padding: 4px;
+     }
