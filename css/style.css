@@ -406,9 +406,16 @@ h5{
         border:none;
         text-align:center;
         color:#ffffff;
-        font-size:8px;
+        font-size:6px;
         text-decoration: underline;
       }
+      #footer{
+        padding:2px;
+        color:#000000;
+        background:#85ac87;
+        border-top: #ffffff 2px solid;
+        text-decoration: underline;
+    }
       header nav{
        display: block;
        width:100%;
