@@ -335,6 +335,20 @@ h5{
     font-size:12px;
     text-decoration: underline;
   }
+
+  table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    margin: auto;
+    width: 90%;
+  }
+
+  td, th {
+    border: 1px solid #C0C0C0;
+    text-align: center;
+    padding: 8px;
+  }
+
   /*iPhone 6.7.8*/
   /*ABOUT*/
   @media (max-width:667px){
